@@ -1,0 +1,15 @@
+// imports:
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100;0,300;0,400;0,600;0,800;1,100;1,300;1,400;1,600;1,800&family=Quicksand:wght@600;700&display=swap');
+
+:root {
+    --bs-body-font-famimy: font-family: 'Epilogue', sans-serif;
+}
+
+$success: #616161;
+
+$primary: #000000;
+$dropdown-min-width: 7rem;
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
